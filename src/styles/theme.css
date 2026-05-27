@@ -1,0 +1,30 @@
+/* 筑韵 — 淡雅深红米白主题 */
+:root {
+  /* 多层暖色 + 青蓝点缀 */
+  --color-primary: #7a2e2e; /* 深红主色 */
+  --color-bg: #f8f1e7; /* 米白底色 */
+  --color-bg-soft: #fff8ef;
+  --color-secondary: #3e6f8c; /* 青蓝辅助色 */
+  --color-secondary-soft: #5c8fae;
+  --color-wood: #dec3a6; /* 温润浅木 */
+  --color-accent: #b64b4b; /* 柔和朱砂红 */
+  --color-accent-pressed: #8a3434;
+  --color-text: #4e2a2a;
+  --color-text-muted: #7b5a5a;
+  --color-card: #fffaf3;
+  --color-border: rgba(122, 46, 46, 0.16);
+  --shadow-soft: 0 8px 24px rgba(122, 46, 46, 0.1);
+  --shadow-hover: 0 14px 30px rgba(122, 46, 46, 0.18);
+  --glow-accent: 0 0 0 3px rgba(166, 70, 70, 0.2);
+
+  /* 字体组合：思源黑体 + 行书 */
+  --font-ui: 'Source Han Sans SC', 'Noto Sans SC', 'PingFang SC',
+    'Microsoft YaHei', sans-serif;
+  --font-brand: 'Ma Shan Zheng', 'KaiTi', 'STKaiti', serif;
+  --radius: 12px;
+  --nav-height: 56px;
+  --header-height: 52px;
+  --transition: 0.3s ease;
+  --page-transition: 0.3s cubic-bezier(0.22, 1, 0.36, 1);
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+}
