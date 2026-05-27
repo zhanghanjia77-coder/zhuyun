@@ -1,0 +1,18 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2A4A5C"/>
+      <stop offset="100%" stop-color="#1F3948"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg)"/>
+  <rect x="90" y="90" width="1020" height="620" rx="24" fill="#F5F2E9" opacity="0.92"/>
+  <rect x="150" y="180" width="900" height="420" rx="16" fill="#D4B996" opacity="0.72"/>
+  <path d="M230 520 L600 260 L970 520" fill="none" stroke="#2A4A5C" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="320" y="520" width="560" height="110" rx="12" fill="#2A4A5C"/>
+  <rect x="370" y="410" width="58" height="110" fill="#2A4A5C"/>
+  <rect x="520" y="370" width="58" height="150" fill="#2A4A5C"/>
+  <rect x="670" y="410" width="58" height="110" fill="#2A4A5C"/>
+  <rect x="160" y="640" width="880" height="26" rx="13" fill="#C8102E" opacity="0.9"/>
+  <text x="600" y="126" text-anchor="middle" font-size="44" font-family="'Microsoft YaHei', 'Noto Sans SC', sans-serif" fill="#2A4A5C" font-weight="700">筑韵 · 古建筑文化示意图</text>
+</svg>
